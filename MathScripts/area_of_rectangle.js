@@ -6,7 +6,7 @@ var widthOfsquare = 20;
 
 var areaOfSquare = lengthOfSquare * widthOfsquare;
 
-console.log(areaOfSquare);
+console.log("The area of the rectangle is",areaOfSquare);
 
 
 
